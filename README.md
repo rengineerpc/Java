@@ -7,4 +7,4 @@ Java](http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/DPwJava/) and
 [Java
 Concurrency](http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/CPiJava/),
 as well as my LiveTraining courses on [Java 8
-Concurrency](https://www.safaribooksonline.com/live-training/courses/java-8-concurrency/0636920091080/).
+Concurrency](https://learning.oreilly.com/live-training/courses/reactive-programming-with-java-completable-futures/0636920240372/).
